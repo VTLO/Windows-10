@@ -1,1 +1,14 @@
-<svg xmlns="http://www.w3.org/2000/svg" id="svg7384" width="16" height="16.024" version="1.1"><metadata id="metadata90"/><title id="title9167">Gnome Symbolic Icon Theme</title><g id="layer12" transform="translate(-100 -685.98)"><path style="block-progression:tb;text-indent:0;text-transform:none" id="path3869-2" fill="#bebebe" d="m104.84 687.81a0.99998 1.0002 0 0 0 -0.34813 0.13393c-1.0534 0.60965-1.9314 1.466-2.544 2.5179-1.9396 3.3304-0.81232 7.6493 2.5173 9.5893s7.6475 0.8125 9.587-2.5179c1.9396-3.3304 0.81232-7.6493-2.5173-9.5893a1.0081 1.0084 0 1 0 -1.0176 1.7411c2.3957 1.3959 3.1898 4.4341 1.7942 6.8304s-4.433 3.1905-6.8288 1.7946c-2.3854-1.3899-3.1918-4.4121-1.821-6.8036l0.0268-0.0268c0.43759-0.75138 1.0685-1.3859 1.821-1.8214a0.99998 1.0002 0 0 0 -0.66949 -1.8482z" color="#000"/><path style="block-progression:tb;text-indent:0;text-transform:none" id="path4710" fill="#bebebe" d="m107.78 686a1.0001 1.0001 0 0 0 -0.78 1v5a1.0001 1.0001 0 1 0 2 0v-5a1.0001 1.0001 0 0 0 -1.2188 -1z" color="#000"/></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 22 22">
+  <defs id="defs3051">
+    <style type="text/css" id="current-color-scheme">
+      .ColorScheme-Text {
+        color:#5d656b;
+      }
+      </style>
+  </defs>
+    <path 
+        style="fill:currentColor;fill-opacity:1;stroke:none" 
+        d="M 10 3 L 10 10 L 12 10 L 12 3 L 10 3 z M 9 3.265625 C 5.5444518 4.1502188 3 7.2610109 3 11 C 3 15.432 6.568 19 11 19 C 15.432 19 19 15.432 19 11 C 19 7.2610109 16.455548 4.1502188 13 3.265625 L 13 4.3027344 C 15.895041 5.15992 18 7.819625 18 11 C 18 14.878 14.878 18 11 18 C 7.122 18 4 14.878 4 11 C 4 7.819625 6.1049587 5.15992 9 4.3027344 L 9 3.265625 z " 
+        class="ColorScheme-Text"
+        />
+</svg>
